@@ -1,6 +1,6 @@
-- 👋🏾 Hi, I’m @TyRawls. I was born in Maryland and raised in North Carolina.
-- 👀 I’m interested in learning Data Science with a concentration in Artifical Intelligence & Machine Learning.
-- 🌱 I’m currently learning to code in Python but also know several other languages.
+- 👋🏾 Hi, I’m @TyRawls. I was born in Maryland and raised in North Carolina, but I currently live in Florida.
+- 👀 I’m interested in learning all things related to Data Science and Engineering.
+- 🌱 I’m currently learning skills in Data Engineering so that I can land my first job in this field.
 - 💞️ I’m looking to collaborate on anything fun related to Data Science.
 - 📫 You can reach me at tyrell.rawls@gmail.com.
 
