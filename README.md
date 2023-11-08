@@ -4,6 +4,7 @@
 - 🫱🏾‍🫲🏽 I’m looking to collaborate on anything fun and related to Data Engineering.
 - 📫 You can email me at tyrell.rawls@gmail.com
 - 🌐︎ My LinkedIn profile is https://www.linkedin.com/in/tyrellrawls/
+
 <!---
 TyRawls/TyRawls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
