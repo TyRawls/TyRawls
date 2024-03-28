@@ -1,9 +1,10 @@
-- 👋🏾 Hi, I’m @TyRawls. I was born in Maryland and raised in North Carolina, but I currently live in Florida.
+- 👋🏾 Hi, I’m Ty Rawls. I was born in Maryland and raised in North Carolina, but I currently live in Southeast Florida.
 - 🧠 I’m interested in learning all things related to Data Science and Engineering.
-- 🌱 I’m currently learning skills in Data Engineering so that I can land my first job in this field.
+- 🌱 I’m currently learning new skills in Data Engineering to build my portfolio.
 - 🫱🏾‍🫲🏽 I’m looking to collaborate on anything fun and related to Data Engineering.
 - 📫 You can email me at tyrell.rawls@gmail.com
 - 🌐︎ My LinkedIn profile is https://www.linkedin.com/in/tyrellrawls/
+- 🌐︎ My Kaggle profile is https://www.kaggle.com/tyrawls
 
 <!---
 TyRawls/TyRawls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
