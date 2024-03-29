@@ -5,6 +5,8 @@
 - 📫 You can email me at tyrell.rawls@gmail.com
 - 🌐︎ My LinkedIn profile is https://www.linkedin.com/in/tyrellrawls/
 - 🌐︎ My Kaggle profile is https://www.kaggle.com/tyrawls
+- 🌐︎ My Medium profile is https://tyrawls.medium.com
+
 
 <!---
 TyRawls/TyRawls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
