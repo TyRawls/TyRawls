@@ -35,6 +35,8 @@
 [<img align='left' alt='Linux' width='26px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org#gh-dark-mode-only)
 [<img align='left' alt='PySpark' width='52px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
 [<img align='left' alt='PySpark' width='52px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
+[<img align='left' alt='Databricks' width='26px' src='./img/databricks.png' style='padding-right:10px;'/>](https://www.databricks.com)
+
 
 
 
