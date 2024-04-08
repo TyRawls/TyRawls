@@ -33,8 +33,8 @@
 <!-- [<img align='left' alt='Z shell' width='26px' src='./img/zshell_dark.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-dark-mode-only) -->
 [<img align='left' alt='Linux' width='34px' src='./img/linux_light.svg' style='padding-right:10px;'/>](https://kernel.org#gh-light-mode-only)
 [<img align='left' alt='Linux' width='26px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org#gh-dark-mode-only)
-[<img align='left' alt='PySpark' width='50px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
-[<img align='left' alt='PySpark' width='50px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
+[<img align='left' alt='PySpark' width='52px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
+[<img align='left' alt='PySpark' width='52px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
 
 
 
