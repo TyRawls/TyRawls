@@ -40,18 +40,12 @@
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
-
-
-## ⚡ Github Stats
-![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
-
-## 🔥 Github Streaks</b></summary>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  ![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
 
 </details>
