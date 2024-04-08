@@ -40,8 +40,8 @@
 [<img align='left' alt='Docker' width='34px' src='./img/docker.png' style='padding-right:10px;'/>](https://www.docker.com)
 [<img align='left' alt='MongoDB' width='28px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
 [<img align='left' alt='PostgreSQL' width='26px' src='./img/postgresql.svg' style='padding-right:10px;'/>](https://www.postgresql.org)
-<!-- [<img align='left' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
-[<img align='left' alt='AWS' width='26px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
+[<img align='left' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
+<!-- [<img align='left' alt='AWS' width='26px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
 [<img align='left' alt='AWS' width='26px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
 [<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com) -->
 
