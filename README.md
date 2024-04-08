@@ -26,7 +26,7 @@
 [<img align='left' alt='MySQL' width='26px' src='./img/mysql.png' style='padding-right:10px;'/>](https://www.mysql.com)
 [<img align='left' alt='R Programming' width='26px' src='./img/r.png' style='padding-right:10px;'/>](https://www.r-project.org/about.html)
 [<img align='left' alt='Jinja' width='60px' src='./img/jinja_light.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-light-mode-only)
-<!-- [<img align='left' alt='Jinja' width='60px' src='./img/jinja_dark.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-dark-mode-only) -->
+[<img align='left' alt='Jinja' width='60px' src='./img/jinja_dark.png' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-dark-mode-only)
 [<img align='left' alt='Bash' width='34px' src='./img/bash_light.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-light-mode-only)
 [<img align='left' alt='Bash' width='34px' src='./img/bash_dark.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-dark-mode-only)
 [<img align='left' alt='Z shell' width='26px' src='./img/zshell_light.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-light-mode-only)
