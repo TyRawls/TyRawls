@@ -1,4 +1,4 @@
-## Hi, I'm Ty! <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width='28px' height='28px' alt='Waving hand'>
+# Hi, I'm Ty! <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width='34px' height='34px' alt='Waving hand'>
 
 <left>
 <!--Gmail icon-->
