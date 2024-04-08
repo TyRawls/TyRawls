@@ -38,7 +38,7 @@
 [<img align='left' alt='Databricks' width='26px' src='./img/databricks.png' style='padding-right:10px;'/>](https://www.databricks.com)
 [<img align='left' alt='Airflow' width='26px' src='./img/airflow.svg' style='padding-right:10px;'/>](https://airflow.apache.org)
 [<img align='left' alt='Docker' width='34px' src='./img/docker.png' style='padding-right:10px;'/>](https://www.docker.com)
-[<img align='left' alt='MongoDB' width='33px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
+[<img align='left' alt='MongoDB' width='28px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
 
 
 
