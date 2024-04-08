@@ -18,45 +18,35 @@
 </left>
 
 ### Languages and Tools:
-[<img align='left' alt='Visual Studio Code' width='26px' src='./img/vscode.svg' style='padding-right:10px;'/>](https://code.visualstudio.com/)
-[<img align='left' alt='Git' width='26px' src='./img/git.svg' style='padding-right:10px;'/>](https://git-scm.com/)
-[<img align='left' alt='GitHub' width='26px' src='./img/github_light.png' style='padding-right:10px;'/>](https://www.github.com#gh-light-mode-only)
-[<img align='left' alt='GitHub' width='26px' src='./img/github_dark.png' style='padding-right:10px;'/>](https://www.github.com#gh-dark-mode-only)
-[<img align='left' alt='Python' width='26px' src='./img/python.png' style='padding-right:10px;'/>](https://www.python.org)
-[<img align='left' alt='MySQL' width='26px' src='./img/mysql.png' style='padding-right:10px;'/>](https://www.mysql.com)
-[<img align='left' alt='R Programming' width='26px' src='./img/r.png' style='padding-right:10px;'/>](https://www.r-project.org/about.html)
-[<img align='left' alt='Jinja' width='60px' src='./img/jinja_light.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-light-mode-only)
-[<img align='left' alt='Jinja' width='60px' src='./img/jinja_dark.png' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-dark-mode-only)
-[<img align='left' alt='Bash' width='34px' src='./img/bash_light.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-light-mode-only)
-[<img align='left' alt='Bash' width='34px' src='./img/bash_dark.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-dark-mode-only)
-[<img align='left' alt='Z shell' width='26px' src='./img/zshell_light.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-light-mode-only)
-[<img align='left' alt='Z shell' width='26px' src='./img/zshell_dark.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-dark-mode-only)
-[<img align='left' alt='Linux' width='34px' src='./img/linux_light.svg' style='padding-right:10px;'/>](https://kernel.org#gh-light-mode-only)
-[<img align='left' alt='Linux' width='26px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org#gh-dark-mode-only)
-[<img align='left' alt='PySpark' width='52px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
-[<img align='left' alt='PySpark' width='52px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
-[<img align='left' alt='Databricks' width='26px' src='./img/databricks.png' style='padding-right:10px;'/>](https://www.databricks.com)
-[<img align='left' alt='Airflow' width='26px' src='./img/airflow.svg' style='padding-right:10px;'/>](https://airflow.apache.org)
-[<img align='left' alt='Docker' width='34px' src='./img/docker.png' style='padding-right:10px;'/>](https://www.docker.com)
-[<img align='left' alt='MongoDB' width='28px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
-[<img align='left' alt='PostgreSQL' width='26px' src='./img/postgresql.svg' style='padding-right:10px;'/>](https://www.postgresql.org)
-[<img align='left' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
-[<img align='left' alt='AWS' width='26px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
-[<img align='left' alt='AWS' width='26px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
-[<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
+[<img align='center' alt='Visual Studio Code' width='26px' src='./img/vscode.svg' style='padding-right:10px;'/>](https://code.visualstudio.com/)
+[<img align='center' alt='Git' width='26px' src='./img/git.svg' style='padding-right:10px;'/>](https://git-scm.com/)
+[<img align='center' alt='GitHub' width='26px' src='./img/github_light.png' style='padding-right:10px;'/>](https://www.github.com#gh-light-mode-only)
+[<img align='center' alt='GitHub' width='26px' src='./img/github_dark.png' style='padding-right:10px;'/>](https://www.github.com#gh-dark-mode-only)
+[<img align='center' alt='Python' width='26px' src='./img/python.png' style='padding-right:10px;'/>](https://www.python.org)
+[<img align='center' alt='MySQL' width='26px' src='./img/mysql.png' style='padding-right:10px;'/>](https://www.mysql.com)
+[<img align='center' alt='R Programming' width='26px' src='./img/r.png' style='padding-right:10px;'/>](https://www.r-project.org/about.html)
+[<img align='center' alt='Jinja' width='60px' src='./img/jinja_light.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-light-mode-only)
+[<img align='center' alt='Jinja' width='60px' src='./img/jinja_dark.png' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-dark-mode-only)
+[<img align='center' alt='Bash' width='34px' src='./img/bash_light.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-light-mode-only)
+[<img align='center' alt='Bash' width='34px' src='./img/bash_dark.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-dark-mode-only)
+[<img align='center' alt='Z shell' width='26px' src='./img/zshell_light.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-light-mode-only)
+[<img align='center' alt='Z shell' width='26px' src='./img/zshell_dark.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-dark-mode-only)
+[<img align='center' alt='Linux' width='34px' src='./img/linux_light.svg' style='padding-right:10px;'/>](https://kernel.org#gh-light-mode-only)
+[<img align='center' alt='Linux' width='26px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org#gh-dark-mode-only)
+[<img align='center' alt='PySpark' width='52px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
+[<img align='center' alt='PySpark' width='52px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
+[<img align='center' alt='Databricks' width='26px' src='./img/databricks.png' style='padding-right:10px;'/>](https://www.databricks.com)
+[<img align='center' alt='Airflow' width='26px' src='./img/airflow.svg' style='padding-right:10px;'/>](https://airflow.apache.org)
+[<img align='center' alt='Docker' width='34px' src='./img/docker.png' style='padding-right:10px;'/>](https://www.docker.com)
+[<img align='center' alt='MongoDB' width='28px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
+[<img align='center' alt='PostgreSQL' width='26px' src='./img/postgresql.svg' style='padding-right:10px;'/>](https://www.postgresql.org)
+[<img align='center' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
+[<img align='center' alt='AWS' width='26px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
+[<img align='center' alt='AWS' width='26px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
+[<img align='center' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
 
 <br />
 <br />
-<br />
-
-<!-- <a href='https://code.visualstudio.com/' target='_blank'>
-<img align='left' alt='Visual Studio Code' width='26px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' style='padding-right:10px;'/></a>
-
-<a href='https://github.com' target='_blank'>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/></a>
-
-<a href='https://github.com' target='_blank'>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;"/></a> -->
 
 
 <!-- ## 💼 Technical Skills
