@@ -37,6 +37,9 @@
 [<img align='left' alt='PySpark' width='52px' src='./img/pyspark_dark.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-dark-mode-only)
 [<img align='left' alt='Databricks' width='26px' src='./img/databricks.png' style='padding-right:10px;'/>](https://www.databricks.com)
 [<img align='left' alt='Airflow' width='26px' src='./img/airflow.svg' style='padding-right:10px;'/>](https://airflow.apache.org)
+[<img align='left' alt='Docker' width='56px' src='./img/docker.svg' style='padding-right:10px;'/>](https://www.docker.com)
+[<img align='left' alt='MongoDB' width='33px' src='./img/mongodb.svg' style='padding-right:10px;'/>](https://www.mongodb.com)
+
 
 
 
