@@ -45,8 +45,10 @@
 <br > -->
 
 ## ⚡ Github Stats
-[![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrawls)](https://github.com/tyrawls)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
+![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
 
 ## 🔥 Github Streaks</b></summary>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
+
+
