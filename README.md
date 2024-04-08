@@ -1,5 +1,7 @@
 # Hi, I'm Ty! <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width='34px' height='34px' alt='Waving hand'>
 
+## About Me
+
 <left>
 <!--Gmail icon-->
 <a href='mailto:tyrell.rawls@gmail.com' target='_blank'>
@@ -16,10 +18,6 @@
 </left>
 
 ## 💼 Technical Skills
-
-
-<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash"  style="height: 5rem"/> </a>
-
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -42,11 +40,7 @@
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
-<!-- <details>
-    <summary>
-        More about me
-    </summary>
-<br > -->
+
 
 ## ⚡ Github Stats
 ![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
@@ -55,4 +49,9 @@
 ## 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
