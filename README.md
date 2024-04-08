@@ -17,7 +17,17 @@
 <img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/></a>
 </left>
 
-## 💼 Technical Skills
+### Languages and Tools:
+<a href='https://code.visualstudio.com/' target='_blank'>
+<img align='left' alt='Visual Studio Code' width='26px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' style='padding-right:10px;'/></a>
+
+<a href='https://github.com' target='_blank'>
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/></a>
+
+<br />
+
+
+<!-- ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -33,14 +43,22 @@
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
-![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft)
+![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft) -->
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
-<details>
+## ⚡ Github Stats
+![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
+
+## 🔥 Github Streaks</b></summary>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
+
+
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   ![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
@@ -48,4 +66,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
 
-</details>
+  
+</details> -->
+
