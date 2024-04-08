@@ -8,13 +8,16 @@
 - 🌐︎ My Medium profile is https://tyrawls.medium.com
 
 
-<left>
+<center>
 
 <a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'> 
 <img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin'/> </a>
 
+<a href='https://tyrawls.medium.com' target='_blank'> 
+<img alt='Medium' src='https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium'/> 
+</a>
 
-</left>
+</center>
 
 
 
