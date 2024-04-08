@@ -32,7 +32,7 @@
 [<img align='left' alt='Z shell' width='26px' src='./img/zshell_light.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-light-mode-only)
 <!-- [<img align='left' alt='Z shell' width='26px' src='./img/zshell_dark.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-dark-mode-only) -->
 [<img align='left' alt='Linux' width='34px' src='./img/linux_light.svg' style='padding-right:10px;'/>](https://kernel.org/#gh-light-mode-only)
-[<img align='left' alt='Linux' width='30px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org/#gh-dark-mode-only)
+[<img align='left' alt='Linux' width='28px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org/#gh-dark-mode-only)
 
 
 
