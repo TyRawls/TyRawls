@@ -38,6 +38,6 @@
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
-
+## ⚡ Github Stats
 [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrawls)](https://github.com/tyrawls)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
