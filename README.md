@@ -31,6 +31,9 @@
 [<img align='center' alt='Bash' width='34px' src='./img/bash_dark.svg' style='padding-right:10px;'/>](https://www.gnu.org/software/bash#gh-dark-mode-only)
 [<img align='center' alt='Z shell' width='26px' src='./img/zshell_light.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-light-mode-only)
 [<img align='center' alt='Z shell' width='26px' src='./img/zshell_dark.png' style='padding-right:10px;'/>](https://zsh.sourceforge.io#gh-dark-mode-only)
+
+<br />
+
 [<img align='center' alt='Linux' width='34px' src='./img/linux_light.svg' style='padding-right:10px;'/>](https://kernel.org#gh-light-mode-only)
 [<img align='center' alt='Linux' width='26px' src='./img/linux_dark.png' style='padding-right:10px;'/>](https://kernel.org#gh-dark-mode-only)
 [<img align='center' alt='PySpark' width='52px' src='./img/pyspark_light.png' style='padding-right:10px;'/>](https://spark.apache.org/docs/latest/api/python/index.html#gh-light-mode-only)
