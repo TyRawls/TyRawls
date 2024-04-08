@@ -40,4 +40,3 @@
 
 ## ⚡ Github Stats
 [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrawls)](https://github.com/tyrawls)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
