@@ -1,14 +1,9 @@
-- 👋🏾 Hi, I’m Ty Rawls. I was born in Maryland and raised in North Carolina, but I currently live in Southeast Florida.
-- 🧠 I’m interested in learning all things related to Data Science and Engineering.
-- 🌱 I’m currently learning new skills in Data Engineering to build my portfolio.
-- 🫱🏾‍🫲🏽 I’m looking to collaborate on anything fun and related to Data Engineering.
-- 📫 You can email me at tyrell.rawls@gmail.com
-- 🌐︎ My LinkedIn profile is https://www.linkedin.com/in/tyrellrawls/
-- 🌐︎ My Kaggle profile is https://www.kaggle.com/tyrawls
-- 🌐︎ My Medium profile is https://tyrawls.medium.com
-
+## Hi, I'm Ty Rawls <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width="28px" height="28px" alt="hi">
 
 <left>
+
+<a href='mailto:tyrell.rawls@gmail.com' target='_blank'>
+<img alt='Gmail' src='https://img.shields.io/badge/gmail-%23C61D19?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 
 <a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
 <img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin'/></a>
@@ -22,7 +17,6 @@
 </left>
 
 ## 💼 Technical Skills
-
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -38,4 +32,6 @@
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
+![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft)
+
 
