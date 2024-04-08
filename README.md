@@ -8,6 +8,4 @@
 - 🌐︎ My Medium profile is https://tyrawls.medium.com
 
 
-![Static Badge](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Ftyrawls.medium.com%2Fabout)
-
-https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Ftyrawls.medium.com%2Fabout
+<img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Ftyrawls.medium.com%2Fabout">
