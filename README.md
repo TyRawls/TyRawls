@@ -16,6 +16,10 @@
 </left>
 
 ## 💼 Technical Skills
+
+
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash"  style="height: 2rem"/> </a>
+
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
