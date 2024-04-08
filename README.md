@@ -20,12 +20,12 @@
 ### Languages and Tools:
 [<img align='left' alt='Visual Studio Code' width='26px' src='./img/vscode.svg' style='padding-right:10px;'/>](https://code.visualstudio.com/)
 [<img align='left' alt='Git' width='26px' src='./img/git.svg' style='padding-right:10px;'/>](https://git-scm.com/)
-[<img align='left' alt='GitHub' width='26px' src='./img/github_dark.png' style='padding-right:10px;'/>](https://www.github.com#gh-dark-mode-only)
 [<img align='left' alt='GitHub' width='26px' src='./img/github_light.png' style='padding-right:10px;'/>](https://www.github.com#gh-light-mode-only)
+[<img align='left' alt='GitHub' width='26px' src='./img/github_dark.png' style='padding-right:10px;'/>](https://www.github.com#gh-dark-mode-only)
 [<img align='left' alt='Python' width='26px' src='./img/python.png' style='padding-right:10px;'/>](https://www.python.org)
 [<img align='left' alt='MySQL' width='26px' src='./img/mysql.png' style='padding-right:10px;'/>](https://www.mysql.com)
 [<img align='left' alt='R Programming' width='26px' src='./img/r.png' style='padding-right:10px;'/>](https://www.r-project.org/about.html)
-[<img align='left' alt='Jinja' width='60px' src='./img/jinja.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x)
+[<img align='left' alt='Jinja' width='60px' src='./img/jinja_light.svg' style='padding-right:10px;'/>](https://jinja.palletsprojects.com/en/3.1.x#gh-light-mode-only)
 
 
 
