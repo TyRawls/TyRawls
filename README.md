@@ -43,6 +43,9 @@
 [<img align='center' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
 [<img align='center' alt='AWS' width='26px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
 [<img align='center' alt='AWS' width='26px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
+[<img align='center' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
+
+
 
 <!-- <a href='https://code.visualstudio.com/' target='_blank'>
 <img align='left' alt='Visual Studio Code' width='26px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' style='padding-right:10px;'/></a>
