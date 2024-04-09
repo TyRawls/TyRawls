@@ -51,6 +51,8 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 [<img align='left' alt='AWS' width='30px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
 [<img align='left' alt='AWS' width='30px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
 [<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
+[<img align='left' alt='Tableau' width='30px' src='./img/tableau.png' style='padding-right:10px;'/>](https://www.tableau.com)
+
 
 <br />
 <br />
