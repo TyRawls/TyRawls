@@ -15,11 +15,13 @@
 <img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/></a>
 </left>
 
-## About Me
+### About Me
 A passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights.
 
 - 🧠 Certified in [Data Analytics](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url), [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop), and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
 - 🌱 I’m currently learning everything I can about Data Engineering to enhance my skills
+- 
+-
 - ⚡ Fun fact: I love to play video games 🎮 👾
 
 ### Languages and Tools:
@@ -53,6 +55,9 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 [<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
 [<img align='left' alt='Tableau' width='30px' src='./img/tableau.png' style='padding-right:10px;'/>](https://www.tableau.com)
 [<img align='left' alt='Looker' width='30px' src='./img/looker.svg' style='padding-right:10px;'/>](https://cloud.google.com/looker)
+[<img align='left' alt='Sphinx' width='30px' src='./img/sphinx_light.png' style='padding-right:10px;'/>](https://www.sphinx-doc.org/en/master#gh-light-mode-only)
+[<img align='left' alt='Sphinx' width='30px' src='./img/sphinx_dark.png' style='padding-right:10px;'/>](https://www.sphinx-doc.org/en/master#gh-dark-mode-only)
+
 
 <br />
 <br />
@@ -75,14 +80,14 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 ![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
 ![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft) -->
 
-## 📚 Latest Medium Stories
+### 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
-## ⚡ Github Stats
+### ⚡ Github Stats
 ![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
 
-## 🔥 Github Streaks</b></summary>
+### 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
