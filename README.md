@@ -1,12 +1,5 @@
 # Hi, I'm Ty! <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width='34px' height='34px' alt='Waving hand'>
 
-## About Me
-A passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights.
-
-- 🧠 Certified in [Data Analytics](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url), [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop), and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
-- 🌱 I’m currently learning 
-- ⚡ Fun fact: I love to play video games 🎮 👾
-
 <left>
 <!--Gmail icon-->
 <a href='mailto:tyrell.rawls@gmail.com' target='_blank'>
@@ -21,6 +14,13 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 <a href='https://www.kaggle.com/tyrawls' target='_blank'>
 <img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/></a>
 </left>
+
+## About Me
+A passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights.
+
+- 🧠 Certified in [Data Analytics](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url), [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop), and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
+- 🌱 I’m currently learning 
+- ⚡ Fun fact: I love to play video games 🎮 👾
 
 ### Languages and Tools:
 [<img align='left' alt='Visual Studio Code' width='26px' src='./img/vscode.svg' style='padding-right:10px;'/>](https://code.visualstudio.com/)
