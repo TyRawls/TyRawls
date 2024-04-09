@@ -52,7 +52,7 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 [<img align='left' alt='AWS' width='30px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
 [<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
 [<img align='left' alt='Tableau' width='30px' src='./img/tableau.png' style='padding-right:10px;'/>](https://www.tableau.com)
-
+[<img align='left' alt='Looker' width='30px' src='./img/looker.svg' style='padding-right:10px;'/>](https://cloud.google.com/looker)
 
 <br />
 <br />
@@ -86,16 +86,3 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 
 ## 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
-
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Ty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrawls&count_private=true&theme=codeSTACKr&hide=contribs,prs)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrawls&show_icons=true&hide_border=true&theme=codeSTACKr&layout=compact&hide_progress=true&langs_count=10"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tyrawls&hide_border=true&theme=codeSTACKr" />
-
-  
-</details> -->
-
