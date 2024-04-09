@@ -60,7 +60,7 @@ A passionate Data Engineer with a knack for crafting innovative products and rob
 [<img align='left' alt='Looker' width='30px' src='./img/looker.svg' style='padding-right:10px;'/>](https://cloud.google.com/looker)
 [<img align='left' alt='Sphinx' width='30px' src='./img/sphinx_light.png' style='padding-right:10px;'/>](https://www.sphinx-doc.org/en/master#gh-light-mode-only)
 [<img align='left' alt='Sphinx' width='30px' src='./img/sphinx_dark.png' style='padding-right:10px;'/>](https://www.sphinx-doc.org/en/master#gh-dark-mode-only)
-
+[<img align='left' alt='Confluence' width='30px' src='./img/confluence.png' style='padding-right:10px;'/>](https://www.atlassian.com/software/confluence)
 
 <br />
 <br />
