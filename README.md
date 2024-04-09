@@ -3,12 +3,9 @@
 ## About Me
 A passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights.
 
-- 🧠 Certified in both [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop) and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
-- Certified [Data Analyst](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url) 
-
-When I'm not knee-deep in code, you'll likely find me immersed in the virtual battlegrounds of first-person shooters (FPS). 
-
-🎮 Gaming isn't just a hobby for me; it's a way to unwind, recharge, and indulge my competitive spirit 👾.
+- 🧠 Certified in [Data Analytics](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url), [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop), and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
+- 🌱 I’m currently learning 
+- ⚡ Fun fact: I love to play video games 🎮 👾
 
 <left>
 <!--Gmail icon-->
