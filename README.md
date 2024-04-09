@@ -2,7 +2,6 @@
 
 <img alt='Banner' src='./img/data_engineer_banner_wide.png'/>
 <br />
-<br />
 
 <left>
 <!--Gmail icon-->
