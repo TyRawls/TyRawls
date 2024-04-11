@@ -1,6 +1,8 @@
 # Hi, I'm Ty! <img src='https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif' width='34px' height='34px' alt='Waving hand'>
 
-<img alt='Banner' src='./img/data_engineer_banner_wide.png'/>
+<!--Banner-->
+<a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
+<img alt='Banner' src='./img/data_engineer_banner_wide.png'/></a>
 <br />
 
 <left>
