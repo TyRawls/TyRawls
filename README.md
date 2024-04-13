@@ -21,7 +21,7 @@
 </left>
 
 ## About Me
-I'm a passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights
+I'm a passionate Data Engineer with a knack for crafting innovative products and robust data solutions. I specialize in architecting ETL/ELT pipelines that transform data into actionable insights.
 
 - 🧠 Certified in [Data Analytics](https://www.credly.com/badges/a074e774-8783-49d5-a377-7b04b0322f60/public_url), [Data Science](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-6959953402051104769-AKZx?utm_source=share&utm_medium=member_desktop), and [Artificial Intelligence](https://www.linkedin.com/posts/tyrellrawls_datascientist-datascience-dataanalytics-activity-7024871721161641984-e5qD?utm_source=share&utm_medium=member_desktop)
 - 🌱 I am currently immersing myself in comprehensive learning about Data Engineering to enrich my skill set
