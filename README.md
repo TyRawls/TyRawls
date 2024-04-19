@@ -86,6 +86,7 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [Streamlining Data Transfers: Python’s Guide to Amazon S3 Cloud Object Storage](https://medium.com/thedeephub/streamlining-data-transfers-pythons-guide-to-amazon-s3-object-storage-7dc06a2c0f42)
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
 
