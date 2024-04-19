@@ -15,6 +15,9 @@
 <!--Medium icon-->
 <a href='https://tyrawls.medium.com' target='_blank'>
 <img alt='Medium' src='https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium'/></a>
+<!--Twitter icon-->
+<a href='https://www.twitter.com/tyrellrawls' target='_blank'>
+<img alt='Twitter' src='https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X'/></a>
 <!--Kaggle icon-->
 <a href='https://www.kaggle.com/tyrawls' target='_blank'>
 <img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/></a>
