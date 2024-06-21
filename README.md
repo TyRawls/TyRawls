@@ -2,25 +2,30 @@
 
 <!--Banner-->
 <a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
-<img alt='Banner' src='./img/data_engineer_banner_wide.png'/></a>
+  <img alt='Banner' src='./img/data_engineer_banner_wide.png'/></a>
 <br />
 
 <left>
-<!--Gmail icon-->
-<a href='mailto:tyrell.rawls@gmail.com' target='_blank'>
-<img alt='Gmail' src='https://img.shields.io/badge/gmail-%23C61D19?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-<!--LinkedIn icon-->
-<a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
-<img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin'/></a>
-<!--Medium icon-->
-<a href='https://tyrawls.medium.com' target='_blank'>
-<img alt='Medium' src='https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium'/></a>
-<!--Twitter icon-->
-<a href='https://www.twitter.com/tyrellrawls' target='_blank'>
-<img alt='Twitter' src='https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X'/></a>
-<!--Kaggle icon-->
-<a href='https://www.kaggle.com/tyrawls' target='_blank'>
-<img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/></a>
+  <!--Gmail icon-->
+  <a href='mailto:tyrell.rawls@gmail.com' target='_blank'>
+    <img alt='Gmail' src='https://img.shields.io/badge/gmail-%23C61D19?style=for-the-badge&logo=gmail&logoColor=white'/>
+  </a>
+  <!--LinkedIn icon-->
+  <a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
+    <img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin'/>
+  </a>
+  <!--Medium icon-->
+  <a href='https://tyrawls.medium.com' target='_blank'>
+    <img alt='Medium' src='https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium'/>
+  </a>
+  <!--Twitter icon-->
+  <a href='https://www.twitter.com/tyrellrawls' target='_blank'>
+    <img alt='Twitter' src='https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X'/>
+  </a>
+  <!--Kaggle icon-->
+  <a href='https://www.kaggle.com/tyrawls' target='_blank'>
+    <img alt='Kaggle' src='https://img.shields.io/badge/kaggle-%231BC0FF?style=for-the-badge&logo=kaggle&logoColor=white'/>
+  </a>
 </left>
 
 ## About Me
@@ -89,6 +94,7 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-STORY-LIST:START -->
+- [PostgreSQL Integration with Python: A Simple Guide](https://medium.com/thedeephub/postgresql-integration-with-python-a-simple-guide-34b675e4bffd)
 - [Streamlining Data Transfers: Python’s Guide to Amazon S3 Cloud Object Storage](https://medium.com/thedeephub/streamlining-data-transfers-pythons-guide-to-amazon-s3-object-storage-7dc06a2c0f42)
 - [Engineering an Advanced ELT Pipeline for Optimizing Stock Portfolios](https://medium.com/@tyrawls/engineering-an-advanced-elt-pipeline-for-optimizing-stock-portfolios-ee8a5d1fa5dc)
 <!-- MEDIUM-STORY-LIST:END -->
