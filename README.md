@@ -70,7 +70,7 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 [<img align='left' alt='Sphinx' width='30px' src='./img/sphinx_dark.png' style='padding-right:10px;'/>](https://www.sphinx-doc.org/en/master#gh-dark-mode-only)
 [<img align='left' alt='Confluence' width='26px' src='./img/confluence.png' style='padding-right:10px;'/>](https://www.atlassian.com/software/confluence)
 [<img align='left' alt='Jira' width='26px' src='./img/jira.svg' style='padding-right:10px;'/>](https://www.atlassian.com/software/jira)
-[<img align='left' alt='ChatGPT' width='50px' src='./img/chatgpt_light.png' style='padding-right:10px;'/>](https://chatgpt.com/#gh-light-mode-only)
+[<img align='left' alt='ChatGPT' width='40px' src='./img/chatgpt_light.png' style='padding-right:10px;'/>](https://chatgpt.com/#gh-light-mode-only)
 [<img align='left' alt='ChatGPT' width='30px' src='./img/chatgpt_dark.png' style='padding-right:10px;'/>](https://chatgpt.com/#gh-dark-mode-only)
 
 <br />
