@@ -60,7 +60,7 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 [<img align='left' alt='PostgreSQL' width='26px' src='./img/postgresql.svg' style='padding-right:10px;'/>](https://www.postgresql.org)
 <br />
 
-[<img align='left' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com/)
+[<img align='left' alt='dbt' width='26px' src='./img/dbt.png' style='padding-right:10px;'/>](https://www.getdbt.com)
 [<img align='left' alt='AWS' width='30px' src='./img/aws_light.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-light-mode-only)
 [<img align='left' alt='AWS' width='30px' src='./img/aws_dark.png' style='padding-right:10px;'/>](https://aws.amazon.com#gh-dark-mode-only)
 [<img align='left' alt='Azure' width='26px' src='./img/azure.png' style='padding-right:10px;'/>](https://azure.microsoft.com)
@@ -76,6 +76,8 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 [<img align='left' alt='Pinecone' width='29px' src='./img/pinecone_dark.png' style='padding-right:10px;'/>](https://www.pinecone.io/#gh-dark-mode-only)
 [<img align='left' alt='Groq' width='26px' src='./img/groq.png' style='padding-right:10px;'/>](https://groq.com/)
 [<img align='left' alt='Voyage AI' width='28px' src='./img/voyage_ai_light.png' style='padding-right:10px;'/>](https://www.voyageai.com/#gh-light-mode-only)
+[<img align='left' alt='Voyage AI' width='28px' src='./img/voyage_ai_dark.png' style='padding-right:10px;'/>](https://www.voyageai.com/#gh-dark-mode-only)
+[<img align='left' alt='Streamlit' width='28px' src='./img/streamlit.png' style='padding-right:10px;'/>](https://streamlit.io)
 
 <br />
 <br />
