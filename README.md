@@ -77,7 +77,7 @@ I'm a passionate Data Engineer with a knack for crafting innovative products and
 [<img align='left' alt='Groq' width='26px' src='./img/groq.png' style='padding-right:10px;'/>](https://groq.com/)
 [<img align='left' alt='Voyage AI' width='28px' src='./img/voyage_ai_light.png' style='padding-right:10px;'/>](https://www.voyageai.com/#gh-light-mode-only)
 [<img align='left' alt='Voyage AI' width='28px' src='./img/voyage_ai_dark.png' style='padding-right:10px;'/>](https://www.voyageai.com/#gh-dark-mode-only)
-[<img align='left' alt='Streamlit' width='28px' src='./img/streamlit.png' style='padding-right:10px;'/>](https://streamlit.io)
+[<img align='left' alt='Streamlit' width='48px' src='./img/streamlit.png' style='padding-right:10px;'/>](https://streamlit.io)
 
 <br />
 <br />
