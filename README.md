@@ -2,7 +2,7 @@
 
 <!--Banner-->
 <a href='https://www.linkedin.com/in/tyrellrawls' target='_blank'>
-  <img alt='Banner' src='./img/linkedin_banner.png'/></a>
+  <img alt='Banner' src='./img/linkedin_banne.png'/></a>
 <br />
 
 <left>
